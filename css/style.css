@@ -30,6 +30,7 @@ body{
 }
 
 #submit{
+        margin-top: 15px;
 	padding: 5px;
 	width: 100px;
 	background-color: orange;
