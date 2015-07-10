@@ -1,0 +1,61 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	font-size: 1.2em;
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+}
+
+body{
+	background-color: #ccc;
+}
+
+.input p{
+	font-family: "Alfa Slab One";
+	text-shadow: 2px 2px 2px  grey;
+}
+
+#search_term{
+	padding: 25px;
+	max-width: 300px;
+	margin: 25px auto;
+	background-color: #088da5;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px 5px grey;
+}
+
+#query{
+	width: 300px;
+	padding-top: 5px;
+}
+
+#submit{
+	padding: 5px;
+	width: 100px;
+	background-color: orange;
+	border-radius: 8px;
+	font-weight: bold;
+}
+
+.search_results{
+	padding: 25px;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.search_results p{
+	font-size: 0.6em;
+}
+
+.search_results img{
+	width: 150px;
+}
+
+.bolder{
+	font-size: 1.2em;
+	font-weight: bolder;
+	text-shadow: 2px 2px 2px grey;
+}
+
